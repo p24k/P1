@@ -1,3 +1,23 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+# 102.54.94.97 rhino.acme.com # source server
+# 38.25.63.10 x.acme.com # x client host
+# localhost name resolution is handled within DNS itself.
+# 127.0.0.1 localhost
+# ::1 localhost
 # google
 203.208.43.67 kh.google.com
 203.208.43.68    kh.google.com
@@ -39,6 +59,15 @@
 127.0.0.1    tsccloud.cloudapp.net
 127.0.0.1    assets.cloud.techsmith.com
 127.0.0.1    www.techpowerup.com
-127.0.0.1    upgrade.xl9.xunlei.com
-127.0.0.1    hub5btmain.sandai.net
-127.0.0.1    hub5emu.sandai.net
+127.0.0.1    mumu.nie.netease.com
+# GIF
+151.101.65.185 giphy.com
+151.101.193.185 giphy.com
+151.101.129.185 giphy.com
+151.101.1.185 giphy.com
+# VRChat
+211.98.71.190 nrt12.r.cloudfront.net
+211.98.71.194 nrt12.r.cloudfront.net
+211.98.71.196 nrt12.r.cloudfront.net
+42.123.125.237 nrt12.r.cloudfront.net
+54.231.168.240 s3-us-west-2.amazonaws.com
